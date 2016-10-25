@@ -3,4 +3,4 @@ An add-on for WoW that allows for the customization of label text on action butt
 
 # Goals
 
-Provide UI to customize the label per modifier.
+Provide UI to customize the label per hotkey/hotkeystroke or per modifier.
